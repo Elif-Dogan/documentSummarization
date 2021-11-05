@@ -2,4 +2,4 @@
 Data mining document summarization project 
 
 # Installation
-Project run with Visual Studio Community with .NET Framework 4.5 
+Project runs on Visual Studio Community with .NET Framework 4.5 
