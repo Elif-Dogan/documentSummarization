@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\DocumentSum\DocumentSum\bin\DocumentSum.dll.config
+c:\users\asus\documents\visual studio 2013\Projects\DocumentSum\DocumentSum\bin\DocumentSum.dll
+c:\users\asus\documents\visual studio 2013\Projects\DocumentSum\DocumentSum\bin\DocumentSum.pdb
+c:\users\asus\documents\visual studio 2013\Projects\DocumentSum\DocumentSum\obj\Debug\DocumentSum.dll
+c:\users\asus\documents\visual studio 2013\Projects\DocumentSum\DocumentSum\obj\Debug\DocumentSum.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\DocumentSum\DocumentSum\obj\Debug\DocumentSum.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\Data_Mining_Term_Project\Data_Mining_Term_Project\DocumentSum\DocumentSum\bin\DocumentSum.dll.config
+C:\Users\Asus\Desktop\Projeler\Data_Mining_Term_Project\Data_Mining_Term_Project\DocumentSum\DocumentSum\bin\DocumentSum.dll
+C:\Users\Asus\Desktop\Projeler\Data_Mining_Term_Project\Data_Mining_Term_Project\DocumentSum\DocumentSum\bin\DocumentSum.pdb
+C:\Users\Asus\Desktop\Projeler\Data_Mining_Term_Project\Data_Mining_Term_Project\DocumentSum\DocumentSum\obj\Debug\DocumentSum.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\Data_Mining_Term_Project\Data_Mining_Term_Project\DocumentSum\DocumentSum\obj\Debug\DocumentSum.dll
+C:\Users\Asus\Desktop\Projeler\Data_Mining_Term_Project\Data_Mining_Term_Project\DocumentSum\DocumentSum\obj\Debug\DocumentSum.pdb
