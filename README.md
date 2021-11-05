@@ -4,3 +4,4 @@ Project summarize articles by means of text mining technics; such as stemming wo
 
 # Installation
 Project runs on Visual Studio Community with .NET Framework 4.5 
+Windows Desktop Application
